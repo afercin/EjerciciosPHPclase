@@ -1,0 +1,6 @@
+9 - 30 = NaN
+Wrong!
+69 + 81 = NaN
+Wrong!
+5 + 48 = NaN
+Wrong!
